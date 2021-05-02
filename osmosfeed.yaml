@@ -1,5 +1,5 @@
-# cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
+cacheUrl: https://cyrusmg.github.io/rss-reader/cache.json
 sources:
-  - href: https://css-tricks.com/feed/
-  - href: https://www.smashingmagazine.com/feed/
-  - href: https://www.freecodecamp.org/news/rss/
+  - href: http://feeds.feedburner.com/tynan
+  - href: http://www.mrmoneymustache.com/feed/
+  - href: https://drewdevault.com/feed.xml
