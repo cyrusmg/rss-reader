@@ -4,6 +4,15 @@
       "href": "http://feeds.feedburner.com/tynan",
       "articles": [
         {
+          "description": "By strange coincidence, I know a lot of people starting restaurants. Some are friends, some are family members, and some I've just gotten to know because I eat at their restaurants all the time. One is a world class chocolate company, another is a pizza place, another is",
+          "link": "http://tynan.com/excellence",
+          "publishedOn": "2021-05-02T15:30:00.000Z",
+          "wordCount": 1528,
+          "sourceHref": "http://feeds.feedburner.com/tynan",
+          "sourceTitle": "Tynan | Life Outside the Box",
+          "title": "Attainable Excellence"
+        },
+        {
           "description": "We're all looking for the next thing that we should be doing or paying attention to. Maybe that's even part of why you read this blog. This is a good pursuit of course, but it often seems to me that people don't spend enough time figuring out what they shouldn't be payin",
           "link": "http://tynan.com/filter",
           "publishedOn": "2021-04-23T20:16:10.000Z",
@@ -115,5 +124,5 @@
       ]
     }
   ],
-  "cliVersion": "1.2.3"
+  "cliVersion": "1.3.0"
 }
