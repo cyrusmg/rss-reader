@@ -102,15 +102,6 @@
           "sourceHref": "https://drewdevault.com/feed.xml",
           "sourceTitle": "Drew DeVault's blog",
           "title": "The Developer Certificate of Origin is a great alternative to a CLA"
-        },
-        {
-          "description": "As you&rsquo;re surely aware, Signal has officially jumped the shark with the\nintroduction of cryptocurrency to their chat app. Back in 2018, I wrote about\nmy concerns with Signal, and those concerns were unfortunately validated by\nthis week&rsquo;s announcement. Moxie&rsquo;s insistence on centralized ownership,\ngovernance, and servers for Signal puts him in a position of power which is\neasily, and inevitably, abused. In that 2018 article, and in articles since,\nI have spoken about the important of federat…",
-          "link": "https://drewdevault.com/2021/04/07/The-next-chat-app.html",
-          "publishedOn": "2021-04-07T00:00:00.000Z",
-          "wordCount": 1334,
-          "sourceHref": "https://drewdevault.com/feed.xml",
-          "sourceTitle": "Drew DeVault's blog",
-          "title": "What should the next chat app look like?"
         }
       ]
     }
