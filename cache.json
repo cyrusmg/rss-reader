@@ -59,6 +59,15 @@
       "href": "https://drewdevault.com/feed.xml",
       "articles": [
         {
+          "description": "We&rsquo;re six months on from forking godoc.org following its upstream\ndeprecation, and we&rsquo;ve made a lot of great improvements since. For those\nunaware, the original godoc.org was replaced with pkg.go.dev, and a redirect was\nset up. The new website isn&rsquo;t right for many projects — one of the most\nglaring issues is the narrow list of software licenses pkg.go.dev will display\ndocumentation for. To continue serving the needs of projects which preferred the\nold website, we forked the project and set…",
+          "link": "https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html",
+          "publishedOn": "2021-05-07T00:00:00.000Z",
+          "wordCount": 508,
+          "sourceHref": "https://drewdevault.com/feed.xml",
+          "sourceTitle": "Drew DeVault's blog",
+          "title": "godocs.io six months later"
+        },
+        {
           "description": "This post is long overdue. Let&rsquo;s get it over with.\nHey! If you write a comment about this article online,\n  disclose your stake in cryptocurrency. I will explain why later in this post.\n  For my part, I held &lt;$10,000 USD worth of Bitcoin prior to 2016, plus small\n  amounts of altcoins. I made a modest profit on my holdings. Today my stake in\n  all cryptocurrency is $0.\n\nStarting on May 1st, users of sourcehut&rsquo;s CI service will be required to be on a\npaid account, a change which will affect ab…",
           "link": "https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html",
           "publishedOn": "2021-04-26T00:00:00.000Z",
