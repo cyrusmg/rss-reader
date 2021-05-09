@@ -4,6 +4,17 @@
       "href": "http://feeds.feedburner.com/tynan",
       "articles": [
         {
+          "id": "http://tynan.com/hilo",
+          "author": "Tynan",
+          "description": "I don't really consider myself to be a foodie, but the food in Hilo is SO good that it's one of the things I most look forward to every time I visit. I've been to the major Hawaiian islands and have had great food on all of them, but Hilo is definitely in a league of it'",
+          "link": "http://tynan.com/hilo",
+          "publishedOn": "2021-05-08T20:34:02.000Z",
+          "wordCount": 2240,
+          "sourceHref": "http://feeds.feedburner.com/tynan",
+          "sourceTitle": "Tynan | Life Outside the Box",
+          "title": "The Best Food in Hilo, Hawaii"
+        },
+        {
           "description": "By strange coincidence, I know a lot of people starting restaurants. Some are friends, some are family members, and some I've just gotten to know because I eat at their restaurants all the time. One is a world class chocolate company, another is a pizza place, another is",
           "link": "http://tynan.com/excellence",
           "publishedOn": "2021-05-02T15:30:00.000Z",
@@ -58,6 +69,17 @@
     {
       "href": "https://drewdevault.com/feed.xml",
       "articles": [
+        {
+          "id": "https://drewdevault.com/2021/05/08/Try-not-to-make-unlikable-software.html",
+          "author": "Drew DeVault's blog",
+          "description": "I am writing to you from The Sky. On my flight today, I noticed an example of\n&ldquo;unlikable&rdquo; software — something I&rsquo;ve been increasingly aware of recently\n— inspiring me to pull out my laptop and write. On this plane, there are\ndisplays in the back of each seat which provides entertainment for the person\nseated one row back. Newer planes no longer include these, given that in\n$CURRENTYEAR everyone would just prefer some power for their phone or laptop.\nNevertheless, you can still end up a pla…",
+          "link": "https://drewdevault.com/2021/05/08/Try-not-to-make-unlikable-software.html",
+          "publishedOn": "2021-05-08T00:00:00.000Z",
+          "wordCount": 727,
+          "sourceHref": "https://drewdevault.com/feed.xml",
+          "sourceTitle": "Drew DeVault's blog",
+          "title": "I try not to make unlikable software (and features)"
+        },
         {
           "description": "We&rsquo;re six months on from forking godoc.org following its upstream\ndeprecation, and we&rsquo;ve made a lot of great improvements since. For those\nunaware, the original godoc.org was replaced with pkg.go.dev, and a redirect was\nset up. The new website isn&rsquo;t right for many projects — one of the most\nglaring issues is the narrow list of software licenses pkg.go.dev will display\ndocumentation for. To continue serving the needs of projects which preferred the\nold website, we forked the project and set…",
           "link": "https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html",
@@ -115,5 +137,5 @@
       ]
     }
   ],
-  "cliVersion": "1.4.0"
+  "cliVersion": "1.5.0"
 }
