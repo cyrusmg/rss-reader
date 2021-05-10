@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-09T00:39:44.229Z</updated>
+    <updated>2021-05-10T00:38:07.336Z</updated>
     <generator>osmosfeed 1.5.0</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
@@ -164,16 +164,6 @@ Elastic betrayed its community when they changed to a proprietary license.  We
 could have seen it coming because of a particular trait of the…]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Annual Reminder to Move to Vegas]]></title>
-        <id>http://tynan.com/vegasbaby</id>
-        <link href="http://tynan.com/vegasbaby"/>
-        <updated>2021-04-09T20:10:16.000Z</updated>
-        <summary type="html"><![CDATA[I used to say that Vegas was the best place in the US to live (with a few caveats), as long as you didn't have to be here the whole year and could travel. And then 2020 came, I couldn't travel, and I was stuck here for the entire year. To my surprise, I love the city eve]]></summary>
-        <author>
-            <name>Tynan | Life Outside the Box</name>
         </author>
     </entry>
 </feed>
