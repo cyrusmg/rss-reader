@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-10T00:38:07.336Z</updated>
-    <generator>osmosfeed 1.5.0</generator>
+    <updated>2021-05-11T00:38:08.552Z</updated>
+    <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
     <entry>
@@ -55,7 +55,7 @@ old website, we forked the project and set…]]></summary>
         <updated>2021-05-02T15:30:00.000Z</updated>
         <summary type="html"><![CDATA[By strange coincidence, I know a lot of people starting restaurants. Some are friends, some are family members, and some I've just gotten to know because I eat at their restaurants all the time. One is a world class chocolate company, another is a pizza place, another is]]></summary>
         <author>
-            <name>Tynan | Life Outside the Box</name>
+            <name>Tynan</name>
         </author>
     </entry>
     <entry>
@@ -83,7 +83,7 @@ paid account, a change which will affect ab…]]></summary>
         <updated>2021-04-23T20:16:10.000Z</updated>
         <summary type="html"><![CDATA[We're all looking for the next thing that we should be doing or paying attention to. Maybe that's even part of why you read this blog. This is a good pursuit of course, but it often seems to me that people don't spend enough time figuring out what they shouldn't be payin]]></summary>
         <author>
-            <name>Tynan | Life Outside the Box</name>
+            <name>Tynan</name>
         </author>
     </entry>
     <entry>
@@ -114,7 +114,7 @@ design was completed this week, …]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Self Educating Child]]></title>
-        <id>https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/</id>
+        <id>https://www.mrmoneymustache.com/?p=17640</id>
         <link href="https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/"/>
         <updated>2021-04-18T21:26:33.000Z</updated>
         <summary type="html"><![CDATA[So it looks like my 15-year-old is officially a high-school dropout. Halfway through ninth grade, emboldened perhaps by the taste of freedom that Covid-era remote learning had provided, he realized that the whole system was just too slow and inefficient for him, and was &#8220;Getting in the way of his work.&#8221; So as it looks [&#8230;]]]></summary>
@@ -129,7 +129,7 @@ design was completed this week, …]]></summary>
         <updated>2021-04-18T16:48:22.000Z</updated>
         <summary type="html"><![CDATA[In just about any way I can think of, I have an amazing life. But of all of the aspects of my life that bring me happiness, the most important one is the relationships I have with my friends and family. This is probably true for almost everyone, but it's odd to me how mo]]></summary>
         <author>
-            <name>Tynan | Life Outside the Box</name>
+            <name>Tynan</name>
         </author>
     </entry>
     <entry>

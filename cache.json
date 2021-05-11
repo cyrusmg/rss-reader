@@ -1,7 +1,9 @@
 {
   "sources": [
     {
-      "href": "http://feeds.feedburner.com/tynan",
+      "title": "Tynan | Life Outside the Box",
+      "feedUrl": "http://feeds.feedburner.com/tynan",
+      "siteUrl": "http://tynan.com",
       "articles": [
         {
           "id": "http://tynan.com/hilo",
@@ -10,123 +12,123 @@
           "link": "http://tynan.com/hilo",
           "publishedOn": "2021-05-08T20:34:02.000Z",
           "wordCount": 2240,
-          "sourceHref": "http://feeds.feedburner.com/tynan",
-          "sourceTitle": "Tynan | Life Outside the Box",
           "title": "The Best Food in Hilo, Hawaii"
         },
         {
+          "id": "http://tynan.com/excellence",
+          "author": "Tynan",
           "description": "By strange coincidence, I know a lot of people starting restaurants. Some are friends, some are family members, and some I've just gotten to know because I eat at their restaurants all the time. One is a world class chocolate company, another is a pizza place, another is",
           "link": "http://tynan.com/excellence",
           "publishedOn": "2021-05-02T15:30:00.000Z",
           "wordCount": 1528,
-          "sourceHref": "http://feeds.feedburner.com/tynan",
-          "sourceTitle": "Tynan | Life Outside the Box",
           "title": "Attainable Excellence"
         },
         {
+          "id": "http://tynan.com/filter",
+          "author": "Tynan",
           "description": "We're all looking for the next thing that we should be doing or paying attention to. Maybe that's even part of why you read this blog. This is a good pursuit of course, but it often seems to me that people don't spend enough time figuring out what they shouldn't be payin",
           "link": "http://tynan.com/filter",
           "publishedOn": "2021-04-23T20:16:10.000Z",
           "wordCount": 1840,
-          "sourceHref": "http://feeds.feedburner.com/tynan",
-          "sourceTitle": "Tynan | Life Outside the Box",
           "title": "Filter More Out"
         },
         {
+          "id": "http://tynan.com/friendvestments",
+          "author": "Tynan",
           "description": "In just about any way I can think of, I have an amazing life. But of all of the aspects of my life that bring me happiness, the most important one is the relationships I have with my friends and family. This is probably true for almost everyone, but it's odd to me how mo",
           "link": "http://tynan.com/friendvestments",
           "publishedOn": "2021-04-18T16:48:22.000Z",
           "wordCount": 1782,
-          "sourceHref": "http://feeds.feedburner.com/tynan",
-          "sourceTitle": "Tynan | Life Outside the Box",
           "title": "How to Invest in Friendships"
         }
       ]
     },
     {
-      "href": "http://www.mrmoneymustache.com/feed/",
+      "title": "Mr. Money Mustache",
+      "feedUrl": "http://www.mrmoneymustache.com/feed/",
+      "siteUrl": "https://www.mrmoneymustache.com",
       "articles": [
         {
+          "id": "https://www.mrmoneymustache.com/?p=17640",
+          "author": "Mr. Money Mustache",
           "description": "So it looks like my 15-year-old is officially a high-school dropout. Halfway through ninth grade, emboldened perhaps by the taste of freedom that Covid-era remote learning had provided, he realized that the whole system was just too slow and inefficient for him, and was &#8220;Getting in the way of his work.&#8221; So as it looks [&#8230;]",
           "link": "https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/",
           "publishedOn": "2021-04-18T21:26:33.000Z",
-          "wordCount": 10956,
-          "sourceHref": "http://www.mrmoneymustache.com/feed/",
-          "sourceTitle": "Mr. Money Mustache",
+          "wordCount": 11282,
           "title": "The Self Educating Child"
         }
       ]
     },
     {
-      "href": "https://drewdevault.com/feed.xml",
+      "title": "Drew DeVault's blog",
+      "feedUrl": "https://drewdevault.com/feed.xml",
+      "siteUrl": "https://drewdevault.com",
       "articles": [
         {
           "id": "https://drewdevault.com/2021/05/08/Try-not-to-make-unlikable-software.html",
-          "author": "Drew DeVault's blog",
+          "author": null,
           "description": "I am writing to you from The Sky. On my flight today, I noticed an example of\n&ldquo;unlikable&rdquo; software — something I&rsquo;ve been increasingly aware of recently\n— inspiring me to pull out my laptop and write. On this plane, there are\ndisplays in the back of each seat which provides entertainment for the person\nseated one row back. Newer planes no longer include these, given that in\n$CURRENTYEAR everyone would just prefer some power for their phone or laptop.\nNevertheless, you can still end up a pla…",
           "link": "https://drewdevault.com/2021/05/08/Try-not-to-make-unlikable-software.html",
           "publishedOn": "2021-05-08T00:00:00.000Z",
           "wordCount": 727,
-          "sourceHref": "https://drewdevault.com/feed.xml",
-          "sourceTitle": "Drew DeVault's blog",
           "title": "I try not to make unlikable software (and features)"
         },
         {
+          "id": "https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html",
+          "author": null,
           "description": "We&rsquo;re six months on from forking godoc.org following its upstream\ndeprecation, and we&rsquo;ve made a lot of great improvements since. For those\nunaware, the original godoc.org was replaced with pkg.go.dev, and a redirect was\nset up. The new website isn&rsquo;t right for many projects — one of the most\nglaring issues is the narrow list of software licenses pkg.go.dev will display\ndocumentation for. To continue serving the needs of projects which preferred the\nold website, we forked the project and set…",
           "link": "https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html",
           "publishedOn": "2021-05-07T00:00:00.000Z",
           "wordCount": 508,
-          "sourceHref": "https://drewdevault.com/feed.xml",
-          "sourceTitle": "Drew DeVault's blog",
           "title": "godocs.io six months later"
         },
         {
+          "id": "https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html",
+          "author": null,
           "description": "This post is long overdue. Let&rsquo;s get it over with.\nHey! If you write a comment about this article online,\n  disclose your stake in cryptocurrency. I will explain why later in this post.\n  For my part, I held &lt;$10,000 USD worth of Bitcoin prior to 2016, plus small\n  amounts of altcoins. I made a modest profit on my holdings. Today my stake in\n  all cryptocurrency is $0.\n\nStarting on May 1st, users of sourcehut&rsquo;s CI service will be required to be on a\npaid account, a change which will affect ab…",
           "link": "https://drewdevault.com/2021/04/26/Cryptocurrency-is-a-disaster.html",
           "publishedOn": "2021-04-26T00:00:00.000Z",
-          "wordCount": 1493,
-          "sourceHref": "https://drewdevault.com/feed.xml",
-          "sourceTitle": "Drew DeVault's blog",
+          "wordCount": 1487,
           "title": "Cryptocurrency is an abject disaster"
         },
         {
+          "id": "https://drewdevault.com/2021/04/23/Lichess.html",
+          "author": null,
           "description": "Signal-boosting this excellent article from Lichess: Why Lichess will always be free.",
           "link": "https://drewdevault.com/2021/04/23/Lichess.html",
           "publishedOn": "2021-04-23T00:00:00.000Z",
-          "wordCount": 256,
-          "sourceHref": "https://drewdevault.com/feed.xml",
-          "sourceTitle": "Drew DeVault's blog",
+          "wordCount": 250,
           "title": "Recommended read: Why Lichess will always be free"
         },
         {
+          "id": "https://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.html",
+          "author": null,
           "description": "One of the things we&rsquo;re working on in my new programming language is a\nself-hosting compiler. Having a self-hosted compiler is a critical step in the\ndevelopment of (some) programming languages: it signals that the language is\nmature enough to be comfortably used to implement itself. While this isn&rsquo;t right\nfor some languages (e.g. shell scripts), for a systems programming language like\nours, this is a crucial step in our bootstrapping plan. Our self-hosted parser\ndesign was completed this week, …",
           "link": "https://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.html",
           "publishedOn": "2021-04-22T00:00:00.000Z",
-          "wordCount": 3263,
-          "sourceHref": "https://drewdevault.com/feed.xml",
-          "sourceTitle": "Drew DeVault's blog",
+          "wordCount": 3257,
           "title": "Parsers all the way down: writing a self-hosting parser"
         },
         {
+          "id": "https://drewdevault.com/2021/04/15/Status-update-April-2021.html",
+          "author": null,
           "description": "Another month goes by! I&rsquo;m afraid that I have very little to share this month.\nYou can check out the sourcehut &ldquo;what&rsquo;s cooking&rdquo; post for sourcehut news,\nbut outside of that I have focused almost entirely on the programming language\nproject this month, for which the details are kept private.\nThe post calling for contributors led to a lot of answers and we&rsquo;ve brought\nseveral new people on board — thanks for answering the call! I&rsquo;d like to\nnarrow the range of problems we sti…",
           "link": "https://drewdevault.com/2021/04/15/Status-update-April-2021.html",
           "publishedOn": "2021-04-15T00:00:00.000Z",
-          "wordCount": 551,
-          "sourceHref": "https://drewdevault.com/feed.xml",
-          "sourceTitle": "Drew DeVault's blog",
+          "wordCount": 545,
           "title": "Status update, April 2021"
         },
         {
+          "id": "https://drewdevault.com/2021/04/12/DCO.html",
+          "author": null,
           "description": "Today Amazon released their fork of ElasticSearch, OpenSearch, and I want\nto take a moment to draw your attention to one good decision in particular: its\nuse of the Developer Certificate of Origin (or &ldquo;DCO&rdquo;).\nPreviously:\nElasticSearch does not belong to Elastic\nOpen source means surrendering your monopoly over commercial exploitation\nDon&rsquo;t sign a CLA\nElastic betrayed its community when they changed to a proprietary license.  We\ncould have seen it coming because of a particular trait of the…",
           "link": "https://drewdevault.com/2021/04/12/DCO.html",
           "publishedOn": "2021-04-12T00:00:00.000Z",
-          "wordCount": 983,
-          "sourceHref": "https://drewdevault.com/feed.xml",
-          "sourceTitle": "Drew DeVault's blog",
+          "wordCount": 977,
           "title": "The Developer Certificate of Origin is a great alternative to a CLA"
         }
       ]
     }
   ],
-  "cliVersion": "1.5.0"
+  "cliVersion": "1.6.0"
 }
