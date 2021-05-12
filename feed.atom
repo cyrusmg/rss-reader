@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-11T00:38:08.552Z</updated>
+    <updated>2021-05-12T00:39:19.254Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
@@ -144,24 +144,6 @@ project this month, for which the details are kept private.
 The post calling for contributors led to a lot of answers and we&rsquo;ve brought
 several new people on board — thanks for answering the call! I&rsquo;d like to
 narrow the range of problems we sti…]]></summary>
-        <author>
-            <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Developer Certificate of Origin is a great alternative to a CLA]]></title>
-        <id>https://drewdevault.com/2021/04/12/DCO.html</id>
-        <link href="https://drewdevault.com/2021/04/12/DCO.html"/>
-        <updated>2021-04-12T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Today Amazon released their fork of ElasticSearch, OpenSearch, and I want
-to take a moment to draw your attention to one good decision in particular: its
-use of the Developer Certificate of Origin (or &ldquo;DCO&rdquo;).
-Previously:
-ElasticSearch does not belong to Elastic
-Open source means surrendering your monopoly over commercial exploitation
-Don&rsquo;t sign a CLA
-Elastic betrayed its community when they changed to a proprietary license.  We
-could have seen it coming because of a particular trait of the…]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
         </author>

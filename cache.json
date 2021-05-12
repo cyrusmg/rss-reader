@@ -117,15 +117,6 @@
           "publishedOn": "2021-04-15T00:00:00.000Z",
           "wordCount": 545,
           "title": "Status update, April 2021"
-        },
-        {
-          "id": "https://drewdevault.com/2021/04/12/DCO.html",
-          "author": null,
-          "description": "Today Amazon released their fork of ElasticSearch, OpenSearch, and I want\nto take a moment to draw your attention to one good decision in particular: its\nuse of the Developer Certificate of Origin (or &ldquo;DCO&rdquo;).\nPreviously:\nElasticSearch does not belong to Elastic\nOpen source means surrendering your monopoly over commercial exploitation\nDon&rsquo;t sign a CLA\nElastic betrayed its community when they changed to a proprietary license.  We\ncould have seen it coming because of a particular trait of the…",
-          "link": "https://drewdevault.com/2021/04/12/DCO.html",
-          "publishedOn": "2021-04-12T00:00:00.000Z",
-          "wordCount": 977,
-          "title": "The Developer Certificate of Origin is a great alternative to a CLA"
         }
       ]
     }
