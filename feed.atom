@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-13T00:47:09.878Z</updated>
+    <updated>2021-05-14T00:48:52.598Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How I Make Purchasing Decisions]]></title>
+        <id>http://tynan.com/buying</id>
+        <link href="http://tynan.com/buying"/>
+        <updated>2021-05-13T15:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Despite being a pretty severe minimalist for a long time, I think I'm now known a lot for what I buy. I worry about this a little bit sometimes, because I don't think being a great consumer is very meaningful. On the other hand, buying the right things is a good substitu]]></summary>
+        <author>
+            <name>Tynan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Food in Hilo, Hawaii]]></title>
         <id>http://tynan.com/hilo</id>

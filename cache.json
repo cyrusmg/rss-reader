@@ -6,6 +6,15 @@
       "siteUrl": "http://tynan.com",
       "articles": [
         {
+          "id": "http://tynan.com/buying",
+          "author": "Tynan",
+          "description": "Despite being a pretty severe minimalist for a long time, I think I'm now known a lot for what I buy. I worry about this a little bit sometimes, because I don't think being a great consumer is very meaningful. On the other hand, buying the right things is a good substitu",
+          "link": "http://tynan.com/buying",
+          "publishedOn": "2021-05-13T15:30:00.000Z",
+          "wordCount": 2013,
+          "title": "How I Make Purchasing Decisions"
+        },
+        {
           "id": "http://tynan.com/hilo",
           "author": "Tynan",
           "description": "I don't really consider myself to be a foodie, but the food in Hilo is SO good that it's one of the things I most look forward to every time I visit. I've been to the major Hawaiian islands and have had great food on all of them, but Hilo is definitely in a league of it'",
