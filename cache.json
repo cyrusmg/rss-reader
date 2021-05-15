@@ -74,6 +74,15 @@
       "siteUrl": "https://drewdevault.com",
       "articles": [
         {
+          "id": "https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html",
+          "author": null,
+          "description": "I received the original Pinebook for free from the good folks at Pine64 a few\nyears ago, when I visited Berlin to work with the KDE developers. Honestly, I\nwas underwhelmed. The performance was abysmal and ARM is a nightmare to work\nwith. For these reasons, I was skeptical when I bought the Pinebook Pro. I have\nalso spoken of my disdain for modern laptops in general before: the state\nof laptops in $CURRENTYEAR is abysmal. As such, I have been using a ThinkPad\nX200, an 11 year old laptop, as my sole laptop f…",
+          "link": "https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html",
+          "publishedOn": "2021-05-14T00:00:00.000Z",
+          "wordCount": 960,
+          "title": "Pinebook Pro review"
+        },
+        {
           "id": "https://drewdevault.com/2021/05/08/Try-not-to-make-unlikable-software.html",
           "author": null,
           "description": "I am writing to you from The Sky. On my flight today, I noticed an example of\n&ldquo;unlikable&rdquo; software — something I&rsquo;ve been increasingly aware of recently\n— inspiring me to pull out my laptop and write. On this plane, there are\ndisplays in the back of each seat which provides entertainment for the person\nseated one row back. Newer planes no longer include these, given that in\n$CURRENTYEAR everyone would just prefer some power for their phone or laptop.\nNevertheless, you can still end up a pla…",
@@ -117,15 +126,6 @@
           "publishedOn": "2021-04-22T00:00:00.000Z",
           "wordCount": 3257,
           "title": "Parsers all the way down: writing a self-hosting parser"
-        },
-        {
-          "id": "https://drewdevault.com/2021/04/15/Status-update-April-2021.html",
-          "author": null,
-          "description": "Another month goes by! I&rsquo;m afraid that I have very little to share this month.\nYou can check out the sourcehut &ldquo;what&rsquo;s cooking&rdquo; post for sourcehut news,\nbut outside of that I have focused almost entirely on the programming language\nproject this month, for which the details are kept private.\nThe post calling for contributors led to a lot of answers and we&rsquo;ve brought\nseveral new people on board — thanks for answering the call! I&rsquo;d like to\nnarrow the range of problems we sti…",
-          "link": "https://drewdevault.com/2021/04/15/Status-update-April-2021.html",
-          "publishedOn": "2021-04-15T00:00:00.000Z",
-          "wordCount": 545,
-          "title": "Status update, April 2021"
         }
       ]
     }

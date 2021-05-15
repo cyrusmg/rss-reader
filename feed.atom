@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-14T00:48:52.598Z</updated>
+    <updated>2021-05-15T00:45:45.206Z</updated>
     <generator>osmosfeed 1.6.0</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Pinebook Pro review]]></title>
+        <id>https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html</id>
+        <link href="https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html"/>
+        <updated>2021-05-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I received the original Pinebook for free from the good folks at Pine64 a few
+years ago, when I visited Berlin to work with the KDE developers. Honestly, I
+was underwhelmed. The performance was abysmal and ARM is a nightmare to work
+with. For these reasons, I was skeptical when I bought the Pinebook Pro. I have
+also spoken of my disdain for modern laptops in general before: the state
+of laptops in $CURRENTYEAR is abysmal. As such, I have been using a ThinkPad
+X200, an 11 year old laptop, as my sole laptop f…]]></summary>
+        <author>
+            <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How I Make Purchasing Decisions]]></title>
         <id>http://tynan.com/buying</id>
@@ -140,22 +156,6 @@ design was completed this week, …]]></summary>
         <summary type="html"><![CDATA[In just about any way I can think of, I have an amazing life. But of all of the aspects of my life that bring me happiness, the most important one is the relationships I have with my friends and family. This is probably true for almost everyone, but it's odd to me how mo]]></summary>
         <author>
             <name>Tynan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Status update, April 2021]]></title>
-        <id>https://drewdevault.com/2021/04/15/Status-update-April-2021.html</id>
-        <link href="https://drewdevault.com/2021/04/15/Status-update-April-2021.html"/>
-        <updated>2021-04-15T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Another month goes by! I&rsquo;m afraid that I have very little to share this month.
-You can check out the sourcehut &ldquo;what&rsquo;s cooking&rdquo; post for sourcehut news,
-but outside of that I have focused almost entirely on the programming language
-project this month, for which the details are kept private.
-The post calling for contributors led to a lot of answers and we&rsquo;ve brought
-several new people on board — thanks for answering the call! I&rsquo;d like to
-narrow the range of problems we sti…]]></summary>
-        <author>
-            <name>Drew DeVault's blog</name>
         </author>
     </entry>
 </feed>
