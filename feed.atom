@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-16T00:50:38.463Z</updated>
-    <generator>osmosfeed 1.7.0</generator>
+    <updated>2021-05-17T00:46:19.895Z</updated>
+    <generator>osmosfeed 1.7.1</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Status update, May 2021]]></title>
+        <id>https://drewdevault.com/2021/05/16/Status-update-May-2021.html</id>
+        <link href="https://drewdevault.com/2021/05/16/Status-update-May-2021.html"/>
+        <updated>2021-05-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! This update is a bit late. I was travelling all day yesterday without
+internet, so I could not prepare these. After my sister and I got vaccinated, I
+took a trip to visit her at her home in beautiful Hawaii — it felt great
+after a year of being trapped within these same four walls. I hope you get that
+vaccine and things start to improve for you, too!
+In SourceHut news, I’ve completed and shipped the first version of the
+builds.sr.ht GraphQL API. Another update, implementing the write functionality,
+w…]]></summary>
+        <author>
+            <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pinebook Pro review]]></title>
         <id>https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html</id>
