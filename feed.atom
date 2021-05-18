@@ -2,10 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-17T00:46:19.895Z</updated>
-    <generator>osmosfeed 1.7.1</generator>
+    <updated>2021-05-18T00:50:44.139Z</updated>
+    <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[aerc, mbsync, and postfix for maximum comfy offline email]]></title>
+        <id>https://drewdevault.com/2021/05/17/aerc-with-mbsync-postfix.html</id>
+        <link href="https://drewdevault.com/2021/05/17/aerc-with-mbsync-postfix.html"/>
+        <updated>2021-05-17T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I am the original author of the aerc mail client, though my official
+relationship with it today is marginal at best. I think that, with hindsight,
+I’ve come to understand that the “always online” approach of aerc’s IMAP
+implementation is less than ideal. The next email client (which will exist at
+some point!) will improve on this design, but, since it’s still my favorite
+email client despite these flaws, they will have to be worked around.
+To this end, I have updated my personal aerc setup to take advantage…]]></summary>
+        <author>
+            <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Status update, May 2021]]></title>
         <id>https://drewdevault.com/2021/05/16/Status-update-May-2021.html</id>
