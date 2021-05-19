@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-18T00:50:44.139Z</updated>
+    <updated>2021-05-19T00:45:48.080Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
@@ -169,26 +169,6 @@ ours, this is a crucial step in our bootstrapping plan. Our self-hosted parser
 design was completed this week, …]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Self Educating Child]]></title>
-        <id>https://www.mrmoneymustache.com/?p=17640</id>
-        <link href="https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/"/>
-        <updated>2021-04-18T21:26:33.000Z</updated>
-        <summary type="html"><![CDATA[So it looks like my 15-year-old is officially a high-school dropout. Halfway through ninth grade, emboldened perhaps by the taste of freedom that Covid-era remote learning had provided, he realized that the whole system was just too slow and inefficient for him, and was &#8220;Getting in the way of his work.&#8221; So as it looks [&#8230;]]]></summary>
-        <author>
-            <name>Mr. Money Mustache</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to Invest in Friendships]]></title>
-        <id>http://tynan.com/friendvestments</id>
-        <link href="http://tynan.com/friendvestments"/>
-        <updated>2021-04-18T16:48:22.000Z</updated>
-        <summary type="html"><![CDATA[In just about any way I can think of, I have an amazing life. But of all of the aspects of my life that bring me happiness, the most important one is the relationships I have with my friends and family. This is probably true for almost everyone, but it's odd to me how mo]]></summary>
-        <author>
-            <name>Tynan</name>
         </author>
     </entry>
 </feed>

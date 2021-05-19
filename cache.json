@@ -40,15 +40,6 @@
           "publishedOn": "2021-04-23T20:16:10.000Z",
           "wordCount": 1840,
           "title": "Filter More Out"
-        },
-        {
-          "id": "http://tynan.com/friendvestments",
-          "author": "Tynan",
-          "description": "In just about any way I can think of, I have an amazing life. But of all of the aspects of my life that bring me happiness, the most important one is the relationships I have with my friends and family. This is probably true for almost everyone, but it's odd to me how mo",
-          "link": "http://tynan.com/friendvestments",
-          "publishedOn": "2021-04-18T16:48:22.000Z",
-          "wordCount": 1782,
-          "title": "How to Invest in Friendships"
         }
       ]
     },
@@ -56,17 +47,7 @@
       "title": "Mr. Money Mustache",
       "feedUrl": "http://www.mrmoneymustache.com/feed/",
       "siteUrl": "https://www.mrmoneymustache.com",
-      "articles": [
-        {
-          "id": "https://www.mrmoneymustache.com/?p=17640",
-          "author": "Mr. Money Mustache",
-          "description": "So it looks like my 15-year-old is officially a high-school dropout. Halfway through ninth grade, emboldened perhaps by the taste of freedom that Covid-era remote learning had provided, he realized that the whole system was just too slow and inefficient for him, and was &#8220;Getting in the way of his work.&#8221; So as it looks [&#8230;]",
-          "link": "https://www.mrmoneymustache.com/2021/04/18/the-self-educating-child/",
-          "publishedOn": "2021-04-18T21:26:33.000Z",
-          "wordCount": 11282,
-          "title": "The Self Educating Child"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Drew DeVault's blog",
