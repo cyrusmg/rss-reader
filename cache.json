@@ -55,6 +55,15 @@
       "siteUrl": "https://drewdevault.com",
       "articles": [
         {
+          "id": "https://drewdevault.com/2021/05/19/How-to-write-release-notes.html",
+          "author": null,
+          "description": "Release notes are a concept most of us are familiar with. When a new software\nrelease is prepared, the release notes tell you what changed, so you understand\nwhat you can expect and how to prepare for the update. They are also\noccasionally used to facilitate conversations:\n\nMany of the people tasked with writing release notes have never found themselves\non that side of the screen before. If that describes you, I would like to offer\nsome advice on how to nail it. Note that this mostly applies to free and ope…",
+          "link": "https://drewdevault.com/2021/05/19/How-to-write-release-notes.html",
+          "publishedOn": "2021-05-19T00:00:00.000Z",
+          "wordCount": 1022,
+          "title": "How to write release notes"
+        },
+        {
           "id": "https://drewdevault.com/2021/05/17/aerc-with-mbsync-postfix.html",
           "author": null,
           "description": "I am the original author of the aerc mail client, though my official\nrelationship with it today is marginal at best. I think that, with hindsight,\nI’ve come to understand that the “always online” approach of aerc’s IMAP\nimplementation is less than ideal. The next email client (which will exist at\nsome point!) will improve on this design, but, since it’s still my favorite\nemail client despite these flaws, they will have to be worked around.\nTo this end, I have updated my personal aerc setup to take advantage…",

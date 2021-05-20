@@ -2,10 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-19T00:45:48.080Z</updated>
+    <updated>2021-05-20T00:42:31.088Z</updated>
     <generator>osmosfeed 1.7.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to write release notes]]></title>
+        <id>https://drewdevault.com/2021/05/19/How-to-write-release-notes.html</id>
+        <link href="https://drewdevault.com/2021/05/19/How-to-write-release-notes.html"/>
+        <updated>2021-05-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Release notes are a concept most of us are familiar with. When a new software
+release is prepared, the release notes tell you what changed, so you understand
+what you can expect and how to prepare for the update. They are also
+occasionally used to facilitate conversations:
+
+Many of the people tasked with writing release notes have never found themselves
+on that side of the screen before. If that describes you, I would like to offer
+some advice on how to nail it. Note that this mostly applies to free and ope…]]></summary>
+        <author>
+            <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[aerc, mbsync, and postfix for maximum comfy offline email]]></title>
         <id>https://drewdevault.com/2021/05/17/aerc-with-mbsync-postfix.html</id>
