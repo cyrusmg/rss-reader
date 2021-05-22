@@ -125,15 +125,6 @@
           "publishedOn": "2021-04-23T00:00:00.000Z",
           "wordCount": 250,
           "title": "Recommended read: Why Lichess will always be free"
-        },
-        {
-          "id": "https://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.html",
-          "author": null,
-          "description": "One of the things we&rsquo;re working on in my new programming language is a\nself-hosting compiler. Having a self-hosted compiler is a critical step in the\ndevelopment of (some) programming languages: it signals that the language is\nmature enough to be comfortably used to implement itself. While this isn&rsquo;t right\nfor some languages (e.g. shell scripts), for a systems programming language like\nours, this is a crucial step in our bootstrapping plan. Our self-hosted parser\ndesign was completed this week, …",
-          "link": "https://drewdevault.com/2021/04/22/Our-self-hosted-parser-design.html",
-          "publishedOn": "2021-04-22T00:00:00.000Z",
-          "wordCount": 3257,
-          "title": "Parsers all the way down: writing a self-hosting parser"
         }
       ]
     }
