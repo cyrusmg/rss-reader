@@ -6,6 +6,15 @@
       "siteUrl": "http://tynan.com",
       "articles": [
         {
+          "id": "http://tynan.com/you-have-more-options-when-youre-weird",
+          "author": "Tynan",
+          "description": "In many ways my life is very weird. Sometimes when I'm about to make a statement like that I try to think of a relatable example of how I'm not weird in some way, but it's hard to come up with one. I wear clothes like everyone else... except I only have one set. I sleep",
+          "link": "http://tynan.com/you-have-more-options-when-youre-weird",
+          "publishedOn": "2021-05-22T17:24:37.000Z",
+          "wordCount": 1669,
+          "title": "You Have More Options When You're Weird"
+        },
+        {
           "id": "http://tynan.com/buying",
           "author": "Tynan",
           "description": "Despite being a pretty severe minimalist for a long time, I think I'm now known a lot for what I buy. I worry about this a little bit sometimes, because I don't think being a great consumer is very meaningful. On the other hand, buying the right things is a good substitu",
@@ -116,15 +125,6 @@
           "publishedOn": "2021-04-26T00:00:00.000Z",
           "wordCount": 1487,
           "title": "Cryptocurrency is an abject disaster"
-        },
-        {
-          "id": "https://drewdevault.com/2021/04/23/Lichess.html",
-          "author": null,
-          "description": "Signal-boosting this excellent article from Lichess: Why Lichess will always be free.",
-          "link": "https://drewdevault.com/2021/04/23/Lichess.html",
-          "publishedOn": "2021-04-23T00:00:00.000Z",
-          "wordCount": 250,
-          "title": "Recommended read: Why Lichess will always be free"
         }
       ]
     }
