@@ -40,15 +40,6 @@
           "publishedOn": "2021-05-02T15:30:00.000Z",
           "wordCount": 1528,
           "title": "Attainable Excellence"
-        },
-        {
-          "id": "http://tynan.com/filter",
-          "author": "Tynan",
-          "description": "We're all looking for the next thing that we should be doing or paying attention to. Maybe that's even part of why you read this blog. This is a good pursuit of course, but it often seems to me that people don't spend enough time figuring out what they shouldn't be payin",
-          "link": "http://tynan.com/filter",
-          "publishedOn": "2021-04-23T20:16:10.000Z",
-          "wordCount": 1840,
-          "title": "Filter More Out"
         }
       ]
     },
@@ -129,5 +120,5 @@
       ]
     }
   ],
-  "cliVersion": "1.7.2"
+  "cliVersion": "1.8.1"
 }

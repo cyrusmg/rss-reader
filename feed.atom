@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-05-23T00:52:39.171Z</updated>
-    <generator>osmosfeed 1.7.2</generator>
+    <updated>2021-05-24T00:50:11.736Z</updated>
+    <generator>osmosfeed 1.8.1</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
     <entry>
@@ -160,16 +160,6 @@ Starting on May 1st, users of sourcehut&rsquo;s CI service will be required to b
 paid account, a change which will affect ab…]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Filter More Out]]></title>
-        <id>http://tynan.com/filter</id>
-        <link href="http://tynan.com/filter"/>
-        <updated>2021-04-23T20:16:10.000Z</updated>
-        <summary type="html"><![CDATA[We're all looking for the next thing that we should be doing or paying attention to. Maybe that's even part of why you read this blog. This is a good pursuit of course, but it often seems to me that people don't spend enough time figuring out what they shouldn't be payin]]></summary>
-        <author>
-            <name>Tynan</name>
         </author>
     </entry>
 </feed>
