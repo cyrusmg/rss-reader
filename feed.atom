@@ -2,8 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-01T02:05:02.351Z</updated>
-    <generator>osmosfeed 1.9.0</generator>
+    <updated>2021-06-02T02:12:05.148Z</updated>
+    <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
     <entry>
@@ -179,16 +179,6 @@ documentation for. To continue serving the needs of projects which preferred the
 old website, we forked the project and set…]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Attainable Excellence]]></title>
-        <id>http://tynan.com/excellence</id>
-        <link href="http://tynan.com/excellence"/>
-        <updated>2021-05-02T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[By strange coincidence, I know a lot of people starting restaurants. Some are friends, some are family members, and some I've just gotten to know because I eat at their restaurants all the time. One is a world class chocolate company, another is a pizza place, another is]]></summary>
-        <author>
-            <name>Tynan</name>
         </author>
     </entry>
 </feed>

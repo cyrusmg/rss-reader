@@ -31,15 +31,6 @@
           "publishedOn": "2021-05-08T20:34:02.000Z",
           "wordCount": 2240,
           "title": "The Best Food in Hilo, Hawaii"
-        },
-        {
-          "id": "http://tynan.com/excellence",
-          "author": "Tynan",
-          "description": "By strange coincidence, I know a lot of people starting restaurants. Some are friends, some are family members, and some I've just gotten to know because I eat at their restaurants all the time. One is a world class chocolate company, another is a pizza place, another is",
-          "link": "http://tynan.com/excellence",
-          "publishedOn": "2021-05-02T15:30:00.000Z",
-          "wordCount": 1528,
-          "title": "Attainable Excellence"
         }
       ]
     },
@@ -129,5 +120,5 @@
       ]
     }
   ],
-  "cliVersion": "1.9.0"
+  "cliVersion": "1.10.2"
 }
