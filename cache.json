@@ -107,15 +107,6 @@
           "publishedOn": "2021-05-08T00:00:00.000Z",
           "wordCount": 727,
           "title": "I try not to make unlikable software (and features)"
-        },
-        {
-          "id": "https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html",
-          "author": null,
-          "description": "We&rsquo;re six months on from forking godoc.org following its upstream\ndeprecation, and we&rsquo;ve made a lot of great improvements since. For those\nunaware, the original godoc.org was replaced with pkg.go.dev, and a redirect was\nset up. The new website isn&rsquo;t right for many projects — one of the most\nglaring issues is the narrow list of software licenses pkg.go.dev will display\ndocumentation for. To continue serving the needs of projects which preferred the\nold website, we forked the project and set…",
-          "link": "https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html",
-          "publishedOn": "2021-05-07T00:00:00.000Z",
-          "wordCount": 508,
-          "title": "godocs.io six months later"
         }
       ]
     }

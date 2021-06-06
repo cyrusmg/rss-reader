@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-05T01:10:47.521Z</updated>
+    <updated>2021-06-06T01:03:55.604Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
@@ -161,22 +161,6 @@ displays in the back of each seat which provides entertainment for the person
 seated one row back. Newer planes no longer include these, given that in
 $CURRENTYEAR everyone would just prefer some power for their phone or laptop.
 Nevertheless, you can still end up a pla…]]></summary>
-        <author>
-            <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[godocs.io six months later]]></title>
-        <id>https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html</id>
-        <link href="https://drewdevault.com/2021/05/07/godocs.io-six-months-later.html"/>
-        <updated>2021-05-07T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[We&rsquo;re six months on from forking godoc.org following its upstream
-deprecation, and we&rsquo;ve made a lot of great improvements since. For those
-unaware, the original godoc.org was replaced with pkg.go.dev, and a redirect was
-set up. The new website isn&rsquo;t right for many projects — one of the most
-glaring issues is the narrow list of software licenses pkg.go.dev will display
-documentation for. To continue serving the needs of projects which preferred the
-old website, we forked the project and set…]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
         </author>
