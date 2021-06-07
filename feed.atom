@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-06T01:03:55.604Z</updated>
+    <updated>2021-06-07T01:05:19.567Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
@@ -147,22 +147,6 @@ X200, an 11 year old laptop, as my sole laptop f…]]></summary>
         <summary type="html"><![CDATA[I don't really consider myself to be a foodie, but the food in Hilo is SO good that it's one of the things I most look forward to every time I visit. I've been to the major Hawaiian islands and have had great food on all of them, but Hilo is definitely in a league of it']]></summary>
         <author>
             <name>Tynan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I try not to make unlikable software (and features)]]></title>
-        <id>https://drewdevault.com/2021/05/08/Try-not-to-make-unlikable-software.html</id>
-        <link href="https://drewdevault.com/2021/05/08/Try-not-to-make-unlikable-software.html"/>
-        <updated>2021-05-08T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I am writing to you from The Sky. On my flight today, I noticed an example of
-&ldquo;unlikable&rdquo; software — something I&rsquo;ve been increasingly aware of recently
-— inspiring me to pull out my laptop and write. On this plane, there are
-displays in the back of each seat which provides entertainment for the person
-seated one row back. Newer planes no longer include these, given that in
-$CURRENTYEAR everyone would just prefer some power for their phone or laptop.
-Nevertheless, you can still end up a pla…]]></summary>
-        <author>
-            <name>Drew DeVault's blog</name>
         </author>
     </entry>
 </feed>
