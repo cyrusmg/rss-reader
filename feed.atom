@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-07T01:05:19.567Z</updated>
+    <updated>2021-06-08T01:03:23.885Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[I will be moving to the Netherlands]]></title>
+        <id>https://drewdevault.com/2021/06/07/The-Netherlands.html</id>
+        <link href="https://drewdevault.com/2021/06/07/The-Netherlands.html"/>
+        <updated>2021-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I had been planning a move to the Netherlands for a while, at least until a
+large COVID-shaped wrench was thrown into the gears. However, I was fully
+vaccinated by early April, and there are signs of the border opening up now, so
+my plans have been slowly getting back on track. I sent off my visa application
+today, and assuming I can navigate the pandemic-modified procedures, I should be
+able to make my move fairly soon. It’s a little bit intimidating, but I am
+looking forward to it!
+Quick note: I am looking for temporary housing in NL; somewhere I can stay for
+6-12 months with a permanent mailing address for receiving immigration-related
+documents. I would prefer to rent out a room than to use some kind of commercial
+accommodation, to be certain that I can receive mail from the immigratio…]]></summary>
+        <author>
+            <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build your project in our new language]]></title>
         <id>https://drewdevault.com/2021/05/30/Come-build-your-project.html</id>
@@ -135,16 +155,6 @@ X200, an 11 year old laptop, as my sole laptop f…]]></summary>
         <link href="http://tynan.com/buying"/>
         <updated>2021-05-13T15:30:00.000Z</updated>
         <summary type="html"><![CDATA[Despite being a pretty severe minimalist for a long time, I think I'm now known a lot for what I buy. I worry about this a little bit sometimes, because I don't think being a great consumer is very meaningful. On the other hand, buying the right things is a good substitu]]></summary>
-        <author>
-            <name>Tynan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Food in Hilo, Hawaii]]></title>
-        <id>http://tynan.com/hilo</id>
-        <link href="http://tynan.com/hilo"/>
-        <updated>2021-05-08T20:34:02.000Z</updated>
-        <summary type="html"><![CDATA[I don't really consider myself to be a foodie, but the food in Hilo is SO good that it's one of the things I most look forward to every time I visit. I've been to the major Hawaiian islands and have had great food on all of them, but Hilo is definitely in a league of it']]></summary>
         <author>
             <name>Tynan</name>
         </author>

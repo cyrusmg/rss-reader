@@ -22,15 +22,6 @@
           "publishedOn": "2021-05-13T15:30:00.000Z",
           "wordCount": 2013,
           "title": "How I Make Purchasing Decisions"
-        },
-        {
-          "id": "http://tynan.com/hilo",
-          "author": "Tynan",
-          "description": "I don't really consider myself to be a foodie, but the food in Hilo is SO good that it's one of the things I most look forward to every time I visit. I've been to the major Hawaiian islands and have had great food on all of them, but Hilo is definitely in a league of it'",
-          "link": "http://tynan.com/hilo",
-          "publishedOn": "2021-05-08T20:34:02.000Z",
-          "wordCount": 2240,
-          "title": "The Best Food in Hilo, Hawaii"
         }
       ]
     },
@@ -45,6 +36,15 @@
       "feedUrl": "https://drewdevault.com/feed.xml",
       "siteUrl": "https://drewdevault.com",
       "articles": [
+        {
+          "id": "https://drewdevault.com/2021/06/07/The-Netherlands.html",
+          "author": null,
+          "description": "I had been planning a move to the Netherlands for a while, at least until a\nlarge COVID-shaped wrench was thrown into the gears. However, I was fully\nvaccinated by early April, and there are signs of the border opening up now, so\nmy plans have been slowly getting back on track. I sent off my visa application\ntoday, and assuming I can navigate the pandemic-modified procedures, I should be\nable to make my move fairly soon. It’s a little bit intimidating, but I am\nlooking forward to it!\nQuick note: I am looking for temporary housing in NL; somewhere I can stay for\n6-12 months with a permanent mailing address for receiving immigration-related\ndocuments. I would prefer to rent out a room than to use some kind of commercial\naccommodation, to be certain that I can receive mail from the immigratio…",
+          "link": "https://drewdevault.com/2021/06/07/The-Netherlands.html",
+          "publishedOn": "2021-06-07T00:00:00.000Z",
+          "wordCount": 1096,
+          "title": "I will be moving to the Netherlands"
+        },
         {
           "id": "https://drewdevault.com/2021/05/30/Come-build-your-project.html",
           "author": null,
