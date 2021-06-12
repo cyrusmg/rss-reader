@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-11T00:39:23.165Z</updated>
+    <updated>2021-06-12T00:34:51.245Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Why I Switched Back to WordPress and What I Learned]]></title>
+        <id>https://tynan.com/?p=3502</id>
+        <link href="https://tynan.com/wordpress/"/>
+        <updated>2021-06-11T20:24:09.000Z</updated>
+        <summary type="html"><![CDATA[If you read the blog through the web you may notice that, for the first time in about a decade, it looks different. If you get posts by email you hopefully don’t notice anything, but since it’s a whole new system… who knows. A little over nine years ago, my good friend Todd and I… Continue reading Why I Switched Back to WordPress and What I Learned]]></summary>
+        <author>
+            <name>tynan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I will be moving to the Netherlands]]></title>
         <id>https://drewdevault.com/2021/06/07/The-Netherlands.html</id>
@@ -24,6 +34,16 @@ documents. I would prefer to rent out a room than to use some kind of commercial
 accommodation, to be certain that I can receive mail from the immigratio…]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Get Maximum Enjoyment From Cruises]]></title>
+        <id>https://tynan.com/?p=3488</id>
+        <link href="https://tynan.com/how-to-get-maximum-enjoyment-from-cruises/"/>
+        <updated>2021-06-06T10:50:00.000Z</updated>
+        <summary type="html"><![CDATA[It’s no secret that I absolutely love cruising. Every year I organize a few cruises and try to get as many of my friends as possible to join me. The only limit I have on how many days per year I spend at sea is how many days I can convince friends to cruise with… Continue reading How to Get Maximum Enjoyment From Cruises]]></summary>
+        <author>
+            <name>tynan</name>
         </author>
     </entry>
     <entry>
@@ -50,6 +70,16 @@ with it.
 Sounds interesting? Please tell me about your project idea!]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Variance and Investing]]></title>
+        <id>https://tynan.com/variance/</id>
+        <link href="https://tynan.com/variance/"/>
+        <updated>2021-05-27T11:20:53.000Z</updated>
+        <summary type="html"><![CDATA[One of the best things to come from my career as a professional gambler is a deep unconscious understanding of risk, odds, EV, and variance. The downside to this is that I see people make fundamental errors all the time, especially in investing, and it really bothers me. Usually I notice these errors not because… Continue reading Variance and Investing]]></summary>
+        <author>
+            <name>tynan</name>
         </author>
     </entry>
     <entry>
@@ -81,6 +111,16 @@ m…]]></summary>
         <summary type="html"><![CDATA[In many ways my life is very weird. Sometimes when I'm about to make a statement like that I try to think of a relatable example of how I'm not weird in some way, but it's hard to come up with one. I wear clothes like everyone else... except I only have one set. I sleep]]></summary>
         <author>
             <name>Tynan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You Have More Options When You’re Weird]]></title>
+        <id>https://tynan.com/you-have-more-options-when-youre-weird/</id>
+        <link href="https://tynan.com/you-have-more-options-when-youre-weird/"/>
+        <updated>2021-05-22T10:24:37.000Z</updated>
+        <summary type="html"><![CDATA[In many ways my life is very weird. Sometimes when I’m about to make a statement like that I try to think of a relatable example of how I’m not weird in some way, but it’s hard to come up with one. I wear clothes like everyone else… except I only have one set. I… Continue reading You Have More Options When You’re Weird]]></summary>
+        <author>
+            <name>tynan</name>
         </author>
     </entry>
     <entry>

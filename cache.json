@@ -3,8 +3,35 @@
     {
       "title": "Tynan | Life Outside the Box",
       "feedUrl": "http://feeds.feedburner.com/tynan",
-      "siteUrl": "http://tynan.com",
+      "siteUrl": "https://tynan.com",
       "articles": [
+        {
+          "id": "https://tynan.com/?p=3502",
+          "author": "tynan",
+          "description": "If you read the blog through the web you may notice that, for the first time in about a decade, it looks different. If you get posts by email you hopefully don’t notice anything, but since it’s a whole new system… who knows. A little over nine years ago, my good friend Todd and I… Continue reading Why I Switched Back to WordPress and What I Learned",
+          "link": "https://tynan.com/wordpress/",
+          "publishedOn": "2021-06-11T20:24:09.000Z",
+          "wordCount": 1727,
+          "title": "Why I Switched Back to WordPress and What I Learned"
+        },
+        {
+          "id": "https://tynan.com/?p=3488",
+          "author": "tynan",
+          "description": "It’s no secret that I absolutely love cruising. Every year I organize a few cruises and try to get as many of my friends as possible to join me. The only limit I have on how many days per year I spend at sea is how many days I can convince friends to cruise with… Continue reading How to Get Maximum Enjoyment From Cruises",
+          "link": "https://tynan.com/how-to-get-maximum-enjoyment-from-cruises/",
+          "publishedOn": "2021-06-06T10:50:00.000Z",
+          "wordCount": 1865,
+          "title": "How to Get Maximum Enjoyment From Cruises"
+        },
+        {
+          "id": "https://tynan.com/variance/",
+          "author": "tynan",
+          "description": "One of the best things to come from my career as a professional gambler is a deep unconscious understanding of risk, odds, EV, and variance. The downside to this is that I see people make fundamental errors all the time, especially in investing, and it really bothers me. Usually I notice these errors not because… Continue reading Variance and Investing",
+          "link": "https://tynan.com/variance/",
+          "publishedOn": "2021-05-27T11:20:53.000Z",
+          "wordCount": 1828,
+          "title": "Variance and Investing"
+        },
         {
           "id": "http://tynan.com/you-have-more-options-when-youre-weird",
           "author": "Tynan",
@@ -13,6 +40,15 @@
           "publishedOn": "2021-05-22T17:24:37.000Z",
           "wordCount": 1669,
           "title": "You Have More Options When You're Weird"
+        },
+        {
+          "id": "https://tynan.com/you-have-more-options-when-youre-weird/",
+          "author": "tynan",
+          "description": "In many ways my life is very weird. Sometimes when I’m about to make a statement like that I try to think of a relatable example of how I’m not weird in some way, but it’s hard to come up with one. I wear clothes like everyone else… except I only have one set. I… Continue reading You Have More Options When You’re Weird",
+          "link": "https://tynan.com/you-have-more-options-when-youre-weird/",
+          "publishedOn": "2021-05-22T10:24:37.000Z",
+          "wordCount": 1334,
+          "title": "You Have More Options When You’re Weird"
         },
         {
           "id": "http://tynan.com/buying",
