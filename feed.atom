@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-12T00:34:51.245Z</updated>
+    <updated>2021-06-13T00:41:30.720Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
@@ -171,32 +171,6 @@ builds.sr.ht GraphQL API. Another update, implementing the write functionality,
 w…]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinebook Pro review]]></title>
-        <id>https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html</id>
-        <link href="https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html"/>
-        <updated>2021-05-14T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[I received the original Pinebook for free from the good folks at Pine64 a few
-years ago, when I visited Berlin to work with the KDE developers. Honestly, I
-was underwhelmed. The performance was abysmal and ARM is a nightmare to work
-with. For these reasons, I was skeptical when I bought the Pinebook Pro. I have
-also spoken of my disdain for modern laptops in general before: the state
-of laptops in $CURRENTYEAR is abysmal. As such, I have been using a ThinkPad
-X200, an 11 year old laptop, as my sole laptop f…]]></summary>
-        <author>
-            <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How I Make Purchasing Decisions]]></title>
-        <id>http://tynan.com/buying</id>
-        <link href="http://tynan.com/buying"/>
-        <updated>2021-05-13T15:30:00.000Z</updated>
-        <summary type="html"><![CDATA[Despite being a pretty severe minimalist for a long time, I think I'm now known a lot for what I buy. I worry about this a little bit sometimes, because I don't think being a great consumer is very meaningful. On the other hand, buying the right things is a good substitu]]></summary>
-        <author>
-            <name>Tynan</name>
         </author>
     </entry>
 </feed>

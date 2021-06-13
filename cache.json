@@ -49,15 +49,6 @@
           "publishedOn": "2021-05-22T10:24:37.000Z",
           "wordCount": 1334,
           "title": "You Have More Options When You’re Weird"
-        },
-        {
-          "id": "http://tynan.com/buying",
-          "author": "Tynan",
-          "description": "Despite being a pretty severe minimalist for a long time, I think I'm now known a lot for what I buy. I worry about this a little bit sometimes, because I don't think being a great consumer is very meaningful. On the other hand, buying the right things is a good substitu",
-          "link": "http://tynan.com/buying",
-          "publishedOn": "2021-05-13T15:30:00.000Z",
-          "wordCount": 2013,
-          "title": "How I Make Purchasing Decisions"
         }
       ]
     },
@@ -125,15 +116,6 @@
           "publishedOn": "2021-05-16T00:00:00.000Z",
           "wordCount": 552,
           "title": "Status update, May 2021"
-        },
-        {
-          "id": "https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html",
-          "author": null,
-          "description": "I received the original Pinebook for free from the good folks at Pine64 a few\nyears ago, when I visited Berlin to work with the KDE developers. Honestly, I\nwas underwhelmed. The performance was abysmal and ARM is a nightmare to work\nwith. For these reasons, I was skeptical when I bought the Pinebook Pro. I have\nalso spoken of my disdain for modern laptops in general before: the state\nof laptops in $CURRENTYEAR is abysmal. As such, I have been using a ThinkPad\nX200, an 11 year old laptop, as my sole laptop f…",
-          "link": "https://drewdevault.com/2021/05/14/Pinebook-Pro-review.html",
-          "publishedOn": "2021-05-14T00:00:00.000Z",
-          "wordCount": 960,
-          "title": "Pinebook Pro review"
         }
       ]
     }
