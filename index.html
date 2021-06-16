@@ -16,6 +16,58 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-06-15">2021-06-15</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://drewdevault.com">Drew DeVault&#x27;s blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">Status update, June 2021</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://drewdevault.com/2021/06/15/Status-update-June-2021.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>Hiya! Got another status update for you. First, let me share this picture that
+my dad and I took on our recent astronomy trip (click for full res):
+
+Bonus Venus:
+
+So, what’s new? With SourceHut, there are a few neat goings-on. For one, thanks
+to Michael Forney putting the finishing touches on the patchset, the
+long-awaited NetBSD image is now available for builds.sr.ht. Also, the initial
+lists.sr.ht GraphQL API design is in place, and Simon Ser is working on a new
+and improved implementation of email discussion parsing for us to use. I’ve also
+redesigned the registration &amp; onboarding flow based on a maintainer/contributor
+distinction, which should help people understand how sourcehut works a bit
+better. Also, as promised, the writable GraphQL API for builds.sr.ht is now
+available.
+I had been working on a new feature for the secret programming language, but in
+the course of implementing it, it became clear to me that we need to take a step
+back and do some deep refactoring in the compiler. This will probably occupy us
+for a couple of months. Even so, some improvements in the standard library have
+been made and shall continue to be made. You may have seen a few weeks ago that
+I wrote a finger server in the new language, and there’s a bunch of code
+for you to read there if you’re interested in learning more.
+I also spent some time this month on Simon’s gamja and soju projects.
+Libera.chat is running an experimental instance of gamja for their webchat,
+and I’ve helped Simon incorporate some of their feedback and apply a layer of
+polish to the client. I’m also working on generalizing soju a bit so that we can
+eventually utilize it to offer a hosted IRC bouncer for sr.ht users.
+That’s all I have to share for now. My foci have been on sourcehut and the
+secret language, and will continue to be those. I plan on advancing the work on
+the GraphQL APIs for sr.ht and ideally shipping an initial version of the
+lists.sr.ht API in a few weeks. I’ll share more news about the new language when
+it’s ready. Until next time!</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-06-14">2021-06-14</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -278,37 +330,9 @@ some advice on how to nail it. Note that this mostly applies to free and ope…<
       </li>
     </ul>
   </section>
-  <section class="daily-content">
-    <h2 class="daily-heading"><time datatime="2021-05-17">2021-05-17</time></h2>
-    <ul class="sources card">
-      <li class="source">
-        <section>
-          <h3 class="source-name"><a class="source-name__link" href="https://drewdevault.com">Drew DeVault&#x27;s blog</a></h3>
-          <section class="articles-per-source">
-            <article>
-              <details class="article-expander">
-                <summary class="article-expander__title">aerc, mbsync, and postfix for maximum comfy offline email</summary>
-                <a class="article-summary-link article-summary-box-outer" href="https://drewdevault.com/2021/05/17/aerc-with-mbsync-postfix.html">
-                  <div class="article-summary-box-inner">
-                    <span class="article-reading-time">(3 min)</span>
-                    <span>I am the original author of the aerc mail client, though my official
-relationship with it today is marginal at best. I think that, with hindsight,
-I’ve come to understand that the “always online” approach of aerc’s IMAP
-implementation is less than ideal. The next email client (which will exist at
-some point!) will improve on this design, but, since it’s still my favorite
-email client despite these flaws, they will have to be worked around.
-To this end, I have updated my personal aerc setup to take advantage…</span>
-                  </div>
-                </a>
-              </details>
-            </article>
-        </section>
-      </li>
-    </ul>
-  </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-15T00:40:00.180Z">2021-06-15T00:40:00.180Z</time>
+    <time id="build-timestamp" datetime="2021-06-16T00:39:47.367Z">2021-06-16T00:39:47.367Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.10.2</a></span>
   </footer>
   <script src="index.js"></script>

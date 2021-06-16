@@ -64,6 +64,15 @@
       "siteUrl": "https://drewdevault.com",
       "articles": [
         {
+          "id": "https://drewdevault.com/2021/06/15/Status-update-June-2021.html",
+          "author": null,
+          "description": "Hiya! Got another status update for you. First, let me share this picture that\nmy dad and I took on our recent astronomy trip (click for full res):\n\nBonus Venus:\n\nSo, what’s new? With SourceHut, there are a few neat goings-on. For one, thanks\nto Michael Forney putting the finishing touches on the patchset, the\nlong-awaited NetBSD image is now available for builds.sr.ht. Also, the initial\nlists.sr.ht GraphQL API design is in place, and Simon Ser is working on a new\nand improved implementation of email discussion parsing for us to use. I’ve also\nredesigned the registration & onboarding flow based on a maintainer/contributor\ndistinction, which should help people understand how sourcehut works a bit\nbetter. Also, as promised, the writable GraphQL API for builds.sr.ht is now\navailable.\nI had been working on a new feature for the secret programming language, but in\nthe course of implementing it, it became clear to me that we need to take a step\nback and do some deep refactoring in the compiler. This will probably occupy us\nfor a couple of months. Even so, some improvements in the standard library have\nbeen made and shall continue to be made. You may have seen a few weeks ago that\nI wrote a finger server in the new language, and there’s a bunch of code\nfor you to read there if you’re interested in learning more.\nI also spent some time this month on Simon’s gamja and soju projects.\nLibera.chat is running an experimental instance of gamja for their webchat,\nand I’ve helped Simon incorporate some of their feedback and apply a layer of\npolish to the client. I’m also working on generalizing soju a bit so that we can\neventually utilize it to offer a hosted IRC bouncer for sr.ht users.\nThat’s all I have to share for now. My foci have been on sourcehut and the\nsecret language, and will continue to be those. I plan on advancing the work on\nthe GraphQL APIs for sr.ht and ideally shipping an initial version of the\nlists.sr.ht API in a few weeks. I’ll share more news about the new language when\nit’s ready. Until next time!",
+          "link": "https://drewdevault.com/2021/06/15/Status-update-June-2021.html",
+          "publishedOn": "2021-06-15T00:00:00.000Z",
+          "wordCount": 588,
+          "title": "Status update, June 2021"
+        },
+        {
           "id": "https://drewdevault.com/2021/06/14/Provided-as-is-without-warranty.html",
           "author": null,
           "description": "The MIT license contains the following text, in all uppercase no less:\nTHE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.\nThe BSD licenses, GPL family of licenses, Apache 2.0, Mozilla Public License,\nand likely any other license you’d care to name, have similar clauses of their\nown. It’s worth taking a moment to consider the implications of this statement\nand what it says about the social aspects of free and open source software.\nMany people who rely on free and open source software feel entitled to some\ndegree of workitude or support from the developers, or think that the developers\nhave a responsibility to provide good maintenance, or any …",
@@ -107,15 +116,6 @@
           "publishedOn": "2021-05-19T00:00:00.000Z",
           "wordCount": 1022,
           "title": "How to write release notes"
-        },
-        {
-          "id": "https://drewdevault.com/2021/05/17/aerc-with-mbsync-postfix.html",
-          "author": null,
-          "description": "I am the original author of the aerc mail client, though my official\nrelationship with it today is marginal at best. I think that, with hindsight,\nI’ve come to understand that the “always online” approach of aerc’s IMAP\nimplementation is less than ideal. The next email client (which will exist at\nsome point!) will improve on this design, but, since it’s still my favorite\nemail client despite these flaws, they will have to be worked around.\nTo this end, I have updated my personal aerc setup to take advantage…",
-          "link": "https://drewdevault.com/2021/05/17/aerc-with-mbsync-postfix.html",
-          "publishedOn": "2021-05-17T00:00:00.000Z",
-          "wordCount": 780,
-          "title": "aerc, mbsync, and postfix for maximum comfy offline email"
         }
       ]
     }
