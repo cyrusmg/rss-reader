@@ -107,15 +107,6 @@
           "publishedOn": "2021-05-24T00:00:00.000Z",
           "wordCount": 5171,
           "title": "Using io_uring to make a high-performance... finger server"
-        },
-        {
-          "id": "https://drewdevault.com/2021/05/19/How-to-write-release-notes.html",
-          "author": null,
-          "description": "Release notes are a concept most of us are familiar with. When a new software\nrelease is prepared, the release notes tell you what changed, so you understand\nwhat you can expect and how to prepare for the update. They are also\noccasionally used to facilitate conversations:\n\nMany of the people tasked with writing release notes have never found themselves\non that side of the screen before. If that describes you, I would like to offer\nsome advice on how to nail it. Note that this mostly applies to free and ope…",
-          "link": "https://drewdevault.com/2021/05/19/How-to-write-release-notes.html",
-          "publishedOn": "2021-05-19T00:00:00.000Z",
-          "wordCount": 1022,
-          "title": "How to write release notes"
         }
       ]
     }
