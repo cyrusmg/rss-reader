@@ -6,6 +6,15 @@
       "siteUrl": "https://tynan.com",
       "articles": [
         {
+          "id": "https://tynan.com/?p=3539",
+          "author": "Tynan",
+          "description": "My live event, Superhuman 4.5, will be held in Las Vegas on August 14th and 15th (with an optional meetup the night before). Reflecting on the changes brought about by the pandemic, one of the things I missed most was doing these Superhuman events. They’re a ton of fun and very gratifying for me to… Continue reading Superhuman 4.5 in August",
+          "link": "https://tynan.com/superhuman-4-5-in-august/",
+          "publishedOn": "2021-06-20T18:55:28.000Z",
+          "wordCount": 1112,
+          "title": "Superhuman 4.5 in August"
+        },
+        {
           "id": "https://tynan.com/?p=3502",
           "author": "tynan",
           "description": "If you read the blog through the web you may notice that, for the first time in about a decade, it looks different. If you get posts by email you hopefully don’t notice anything, but since it’s a whole new system… who knows. A little over nine years ago, my good friend Todd and I… Continue reading Why I Switched Back to WordPress and What I Learned",
@@ -40,15 +49,6 @@
           "publishedOn": "2021-05-22T17:24:37.000Z",
           "wordCount": 1669,
           "title": "You Have More Options When You're Weird"
-        },
-        {
-          "id": "https://tynan.com/you-have-more-options-when-youre-weird/",
-          "author": "tynan",
-          "description": "In many ways my life is very weird. Sometimes when I’m about to make a statement like that I try to think of a relatable example of how I’m not weird in some way, but it’s hard to come up with one. I wear clothes like everyone else… except I only have one set. I… Continue reading You Have More Options When You’re Weird",
-          "link": "https://tynan.com/you-have-more-options-when-youre-weird/",
-          "publishedOn": "2021-05-22T10:24:37.000Z",
-          "wordCount": 1334,
-          "title": "You Have More Options When You’re Weird"
         }
       ]
     },

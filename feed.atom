@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-20T00:41:19.684Z</updated>
+    <updated>2021-06-21T00:40:47.151Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Superhuman 4.5 in August]]></title>
+        <id>https://tynan.com/?p=3539</id>
+        <link href="https://tynan.com/superhuman-4-5-in-august/"/>
+        <updated>2021-06-20T18:55:28.000Z</updated>
+        <summary type="html"><![CDATA[My live event, Superhuman 4.5, will be held in Las Vegas on August 14th and 15th (with an optional meetup the night before). Reflecting on the changes brought about by the pandemic, one of the things I missed most was doing these Superhuman events. They’re a ton of fun and very gratifying for me to… Continue reading Superhuman 4.5 in August]]></summary>
+        <author>
+            <name>Tynan</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Status update, June 2021]]></title>
         <id>https://drewdevault.com/2021/06/15/Status-update-June-2021.html</id>
@@ -171,16 +181,6 @@ m…]]></summary>
         <summary type="html"><![CDATA[In many ways my life is very weird. Sometimes when I'm about to make a statement like that I try to think of a relatable example of how I'm not weird in some way, but it's hard to come up with one. I wear clothes like everyone else... except I only have one set. I sleep]]></summary>
         <author>
             <name>Tynan</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Have More Options When You’re Weird]]></title>
-        <id>https://tynan.com/you-have-more-options-when-youre-weird/</id>
-        <link href="https://tynan.com/you-have-more-options-when-youre-weird/"/>
-        <updated>2021-05-22T10:24:37.000Z</updated>
-        <summary type="html"><![CDATA[In many ways my life is very weird. Sometimes when I’m about to make a statement like that I try to think of a relatable example of how I’m not weird in some way, but it’s hard to come up with one. I wear clothes like everyone else… except I only have one set. I… Continue reading You Have More Options When You’re Weird]]></summary>
-        <author>
-            <name>tynan</name>
         </author>
     </entry>
 </feed>
