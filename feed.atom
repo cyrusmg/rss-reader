@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-21T00:40:47.151Z</updated>
+    <updated>2021-06-22T00:37:07.536Z</updated>
     <generator>osmosfeed 1.10.2</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
@@ -171,16 +171,6 @@ ASCII art, and, later, a summary of the things they were working on at the
 m…]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Have More Options When You're Weird]]></title>
-        <id>http://tynan.com/you-have-more-options-when-youre-weird</id>
-        <link href="http://tynan.com/you-have-more-options-when-youre-weird"/>
-        <updated>2021-05-22T17:24:37.000Z</updated>
-        <summary type="html"><![CDATA[In many ways my life is very weird. Sometimes when I'm about to make a statement like that I try to think of a relatable example of how I'm not weird in some way, but it's hard to come up with one. I wear clothes like everyone else... except I only have one set. I sleep]]></summary>
-        <author>
-            <name>Tynan</name>
         </author>
     </entry>
 </feed>
