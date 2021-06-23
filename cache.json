@@ -89,15 +89,6 @@
           "publishedOn": "2021-05-30T00:00:00.000Z",
           "wordCount": 411,
           "title": "Build your project in our new language"
-        },
-        {
-          "id": "https://drewdevault.com/2021/05/24/io_uring-finger-server.html",
-          "author": null,
-          "description": "I’m working on adding a wrapper for the Linux io_uring interface to my\nsecret programming language project. To help learn more about io_uring and\nto test out the interface I was designing, I needed a small project whose design\nwas well-suited for the value-add of io_uring. The Finger protocol is\nperfect for this! After being designed in the 70’s and then completely forgotten\nabout for 50 years, it’s the perfect small and simple network protocol to test\ndrive this new interface with.\nIn short, finger will reach out to a remote server and ask for information about\na user. It was used back in the day to find contact details like the user’s\nphone number, office address, email address, sometimes their favorite piece of\nASCII art, and, later, a summary of the things they were working on at the\nm…",
-          "link": "https://drewdevault.com/2021/05/24/io_uring-finger-server.html",
-          "publishedOn": "2021-05-24T00:00:00.000Z",
-          "wordCount": 5171,
-          "title": "Using io_uring to make a high-performance... finger server"
         }
       ]
     }
