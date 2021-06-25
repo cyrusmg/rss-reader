@@ -16,6 +16,53 @@
 <body>
 <!-- %after-body-begin.html% -->
   <section class="daily-content">
+    <h2 class="daily-heading"><time datatime="2021-06-24">2021-06-24</time></h2>
+    <ul class="sources card">
+      <li class="source">
+        <section>
+          <h3 class="source-name"><a class="source-name__link" href="https://drewdevault.com">Drew DeVault&#x27;s blog</a></h3>
+          <section class="articles-per-source">
+            <article>
+              <details class="article-expander">
+                <summary class="article-expander__title">A finger client</summary>
+                <a class="article-summary-link article-summary-box-outer" href="https://drewdevault.com/2021/06/24/finger-client.html">
+                  <div class="article-summary-box-inner">
+                    <span class="article-reading-time">(2 min)</span>
+                    <span>This is a short follow-up to the io_uring finger server article posted
+about a month ago. In the time since, we have expanded our language with a more
+complete networking stack, most importantly by adding a DNS resolver. I have
+used these improvements to write a small client implementation of the finger
+protocol.
+use fmt;
+use io;
+use net::dial;
+use os;
+use strings;
+
+@init fn registersvc() void &#x3D; dial::registersvc(&quot;tcp&quot;, &quot;finger&quot;, [], 79);
+@noreturn fn usage() void &#x3D; fmt::fatal(&quot;Usage: {} [@
+]&quot;, os::args[0]);
+
+export fn main() void &#x3D; {
+	if (len(os::args) !&#x3D; 2) usage();
+
+	const items &#x3D; strings::split(os::args[1], &quot;@&quot;);
+	defer free(items);
+	if (len(items) &#x3D;&#x3D; 0) usage();
+
+	const user &#x3D; items[0];
+	const host &#x3D; if (len(items) &#x3D;&#x3D; 1) &quot;localhost&quot;
+		else if (len(items) &#x3D;&#x3D; 2) items[1]
+		el…</span>
+                  </div>
+                </a>
+              </details>
+            </article>
+        </section>
+      </li>
+    </ul>
+  </section>
+  <section class="daily-content">
     <h2 class="daily-heading"><time datatime="2021-06-20">2021-06-20</time></h2>
     <ul class="sources card">
       <li class="source">
@@ -259,7 +306,7 @@ Sounds interesting? Please tell me about your project idea!</span>
   </section>
 
   <footer>
-    <time id="build-timestamp" datetime="2021-06-24T00:31:06.912Z">2021-06-24T00:31:06.912Z</time>
+    <time id="build-timestamp" datetime="2021-06-25T00:42:39.783Z">2021-06-25T00:42:39.783Z</time>
     <span><a class="footer-link" href="https://github.com/osmoscraft/osmosfeed">osmosfeed 1.11.0</a></span>
   </footer>
   <script src="index.js"></script>

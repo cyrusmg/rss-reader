@@ -2,10 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-24T00:31:06.944Z</updated>
+    <updated>2021-06-25T00:42:39.803Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[A finger client]]></title>
+        <id>https://drewdevault.com/2021/06/24/finger-client.html</id>
+        <link href="https://drewdevault.com/2021/06/24/finger-client.html"/>
+        <updated>2021-06-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is a short follow-up to the io_uring finger server article posted
+about a month ago. In the time since, we have expanded our language with a more
+complete networking stack, most importantly by adding a DNS resolver. I have
+used these improvements to write a small client implementation of the finger
+protocol.
+use fmt;
+use io;
+use net::dial;
+use os;
+use strings;
+
+@init fn registersvc() void = dial::registersvc("tcp", "finger", [], 79);
+@noreturn fn usage() void = fmt::fatal("Usage: {} <user>[@<host>]", os::args[0]);
+
+export fn main() void = {
+	if (len(os::args) != 2) usage();
+
+	const items = strings::split(os::args[1], "@");
+	defer free(items);
+	if (len(items) == 0) usage();
+
+	const user = items[0];
+	const host = if (len(items) == 1) "localhost"
+		else if (len(items) == 2) items[1]
+		el…]]></summary>
+        <author>
+            <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Superhuman 4.5 in August]]></title>
         <id>https://tynan.com/?p=3539</id>
