@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-25T00:42:39.803Z</updated>
+    <updated>2021-06-26T00:37:51.247Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
@@ -174,16 +174,6 @@ with it.
 Sounds interesting? Please tell me about your project idea!]]></summary>
         <author>
             <name>Drew DeVault's blog</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Variance and Investing]]></title>
-        <id>https://tynan.com/variance/</id>
-        <link href="https://tynan.com/variance/"/>
-        <updated>2021-05-27T11:20:53.000Z</updated>
-        <summary type="html"><![CDATA[One of the best things to come from my career as a professional gambler is a deep unconscious understanding of risk, odds, EV, and variance. The downside to this is that I see people make fundamental errors all the time, especially in investing, and it really bothers me. Usually I notice these errors not because… Continue reading Variance and Investing]]></summary>
-        <author>
-            <name>tynan</name>
         </author>
     </entry>
 </feed>
