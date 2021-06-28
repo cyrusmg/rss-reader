@@ -6,6 +6,15 @@
       "siteUrl": "https://tynan.com",
       "articles": [
         {
+          "id": "https://tynan.com/?p=3544",
+          "author": "Tynan",
+          "description": "One of the projects I’ve been tinkering with constantly for the past nine months or so that we’ve lived at our new house is home automation. I’ve been into home automation since about 1996 and have had a fully automated house ever since 2003 or so. Even my RV was so automated that it unlocked… Continue reading Home Automation",
+          "link": "https://tynan.com/automatichome/",
+          "publishedOn": "2021-06-27T21:39:25.000Z",
+          "wordCount": 2126,
+          "title": "Home Automation"
+        },
+        {
           "id": "https://tynan.com/?p=3539",
           "author": "Tynan",
           "description": "My live event, Superhuman 4.5, will be held in Las Vegas on August 14th and 15th (with an optional meetup the night before). Reflecting on the changes brought about by the pandemic, one of the things I missed most was doing these Superhuman events. They’re a ton of fun and very gratifying for me to… Continue reading Superhuman 4.5 in August",
@@ -45,6 +54,15 @@
       "feedUrl": "https://drewdevault.com/feed.xml",
       "siteUrl": "https://drewdevault.com",
       "articles": [
+        {
+          "id": "https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html",
+          "author": null,
+          "description": "Check out this text box:\nConsectetur qui consequatur voluptatibus voluptatem sit sint perspiciatis. Eos aspernatur ad laboriosam quam numquam quo. Quia reiciendis illo quo praesentium. Dolor porro et et sit dolorem quisquam totam quae.\nEa molestias a aspernatur dignissimos suscipit incidunt. Voluptates in vel qui quaerat. Asperiores vel sit rerum est ipsam. Odio aut aut voluptate qui voluptatem.\nQuia consequatur provident fugiat voluptatibus consequatur. Est sunt aspernatur velit. Officiis a dolorum accusantium. Sint est ut inventore.\nHere are some of the nuances of using this text box on my operating system\n(Linux) and web browser (Firefox):\nDouble clicking selects a word, and triple-clicking selects the whole line. If\nI double- or triple-click-and-hold, I can drag the mouse to expand the…",
+          "link": "https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html",
+          "publishedOn": "2021-06-27T00:00:00.000Z",
+          "wordCount": 996,
+          "title": "You can't capture the nuance of my form fields"
+        },
         {
           "id": "https://drewdevault.com/2021/06/24/finger-client.html",
           "author": null,

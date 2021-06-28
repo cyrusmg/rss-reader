@@ -2,10 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://cyrusmg.github.io/rss-reader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2021-06-27T00:45:26.597Z</updated>
+    <updated>2021-06-28T00:42:02.341Z</updated>
     <generator>osmosfeed 1.11.0</generator>
     <link rel="alternate" href="https://cyrusmg.github.io/rss-reader/index.html"/>
     <link rel="self" href="https://cyrusmg.github.io/rss-reader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Home Automation]]></title>
+        <id>https://tynan.com/?p=3544</id>
+        <link href="https://tynan.com/automatichome/"/>
+        <updated>2021-06-27T21:39:25.000Z</updated>
+        <summary type="html"><![CDATA[One of the projects I’ve been tinkering with constantly for the past nine months or so that we’ve lived at our new house is home automation. I’ve been into home automation since about 1996 and have had a fully automated house ever since 2003 or so. Even my RV was so automated that it unlocked… Continue reading Home Automation]]></summary>
+        <author>
+            <name>Tynan</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You can't capture the nuance of my form fields]]></title>
+        <id>https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html</id>
+        <link href="https://drewdevault.com/2021/06/27/You-cant-capture-the-nuance.html"/>
+        <updated>2021-06-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check out this text box:
+Consectetur qui consequatur voluptatibus voluptatem sit sint perspiciatis. Eos aspernatur ad laboriosam quam numquam quo. Quia reiciendis illo quo praesentium. Dolor porro et et sit dolorem quisquam totam quae.
+Ea molestias a aspernatur dignissimos suscipit incidunt. Voluptates in vel qui quaerat. Asperiores vel sit rerum est ipsam. Odio aut aut voluptate qui voluptatem.
+Quia consequatur provident fugiat voluptatibus consequatur. Est sunt aspernatur velit. Officiis a dolorum accusantium. Sint est ut inventore.
+Here are some of the nuances of using this text box on my operating system
+(Linux) and web browser (Firefox):
+Double clicking selects a word, and triple-clicking selects the whole line. If
+I double- or triple-click-and-hold, I can drag the mouse to expand the…]]></summary>
+        <author>
+            <name>Drew DeVault's blog</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A finger client]]></title>
         <id>https://drewdevault.com/2021/06/24/finger-client.html</id>
