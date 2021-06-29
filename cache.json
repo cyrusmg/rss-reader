@@ -98,15 +98,6 @@
           "publishedOn": "2021-06-07T00:00:00.000Z",
           "wordCount": 1096,
           "title": "I will be moving to the Netherlands"
-        },
-        {
-          "id": "https://drewdevault.com/2021/05/30/Come-build-your-project.html",
-          "author": null,
-          "description": "Do you have a new systems programming project on your todo list? If you’re\nfeeling adventurous, I would like you to give it a crack in our new systems\nprogramming language, and to use it to drive improvements in the less-developed\nareas of our standard library.\nAre you making a new coreutils implementation? A little OS kernel? A new shell?\nA GUI toolkit? Database system? Web server? Whatever your systems programming\nuse-case, we think that our language is likely to be a good fit for you, and\nyour help in proving that, and spurring development to rise to meet your needs,\nwould be quite welcome.\nHere’s our pitch:\nXXXX is a systems programming language designed to be simple and robust. XXXX\nuses a static type system, manual memory management, and a minimal runtime.\nIt is well-suited to writing operating systems, system tools, compilers,\nnetworking software, and other low-level, high performance tasks.\nYou can get a peek at how it feels by reading about the finger server I wrote\nwith it.\nSounds interesting? Please tell me about your project idea!",
-          "link": "https://drewdevault.com/2021/05/30/Come-build-your-project.html",
-          "publishedOn": "2021-05-30T00:00:00.000Z",
-          "wordCount": 411,
-          "title": "Build your project in our new language"
         }
       ]
     }
